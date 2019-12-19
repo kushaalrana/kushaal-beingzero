@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kushaalrana/kushaal-beingzero/issues"
   },
-  "homepage": "https://github.com/kushaalrana/kushaal-beingzero#readme"
+  "homepage": "https://github.com/kushaalrana/kushaal-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
